@@ -1,1 +1,2 @@
 # VANET
+The goal of the VANET (Vehicular Ad Hoc Network) project is to enhance road safety and traffic management by facilitating communication between vehicles (V2V) and between vehicles and infrastructure (V2I).  It enables the sharing of data in real time, including position, speed, and accident alarms, over wireless protocols like IEEE 802.11p.  under order to evaluate routing effectiveness, latency, and message delivery under dynamic traffic scenarios, the research simulates network behaviour using tools such as NS-3 and SUMO.
